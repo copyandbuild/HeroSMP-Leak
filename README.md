@@ -1,4 +1,4 @@
-# HeroSMP 🤡
+# HeroSMP in his prime🤡
 
 # Messages
 ### Admin Rudeness on asking where in the rules is it forbidden to talk about cheats/hacks in Minecraft WITH an Admin:
@@ -14,3 +14,14 @@
 
 ### Discord
   - Vanity URL: https://discord.gg/heromc-decommunity-netzwerk-916839581545025558
+
+# Server
+
+### Minecraft IP's / Domains
+  - HeroMC.de
+  - HeroAttack.de
+  - HeroSMP.de
+  - 37.44.215.125:25565 - Purpur
+
+### Open Ports
+  - 25565
