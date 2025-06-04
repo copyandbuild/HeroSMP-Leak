@@ -25,6 +25,7 @@
 
 ### Open Ports
   - 25565
+  - 19132
 
 # Why?
 - The reason for the leak is that the admins are being disrespectful to the community and don’t even know their own rules.
