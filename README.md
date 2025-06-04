@@ -25,3 +25,18 @@
 
 ### Open Ports
   - 25565
+
+# Why?
+- The reason for the leak is that the admins are being disrespectful to the community and don’t even know their own rules.
+
+# **Legal Disclaimer Regarding Shared Content**
+
+The information presented in this repository does **not violate German law**.
+
+* The Discord messages shown originate from a **public Minecraft Discord server** that is freely accessible to any user without registration, paywall, or invitation requirement. As such, these messages are considered part of a publicly accessible communication platform.
+* The shared content consists of **publicly available server IP addresses, domains, and open ports**, which are retrievable via standard DNS or network tools (e.g. `nslookup`, `nmap`). No private data or confidential server infrastructure has been exposed.
+* No personal information (as defined under the GDPR) has been published or associated with specific individuals. The data shown cannot be used to identify or harm any specific person.
+* The accompanying commentary constitutes **personal opinion and fair criticism**, which is protected under **Article 5 of the German Basic Law (Grundgesetz)**, guaranteeing freedom of expression.
+
+If any concerned party believes their rights have been violated, they are welcome to reach out via GitHub to request a review or takedown of specific content.
+
