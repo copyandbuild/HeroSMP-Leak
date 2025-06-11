@@ -21,7 +21,7 @@
   - HeroMC.de
   - HeroAttack.de
   - HeroSMP.de
-  - 37.44.215.125:25565 - Purpur
+  - 37.44.215.125
 
 ### Open Ports
   - 25565
