@@ -10,6 +10,12 @@
 ### Admin just clipfarming 😭
 > <img src=img/Bild_2025-06-04_181203553.png>
 
+### Am i scary or smth?
+> <img src=img/gertgrgergwefqef.png> 
+
+### Distance...
+> <img src=img/nbomb-thanks.png>
+
 # Links
 
 ### Discord
