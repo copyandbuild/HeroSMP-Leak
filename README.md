@@ -19,7 +19,9 @@
 # Links
 
 ### Discord
-  - Vanity URL: https://discord.gg/heromc-decommunity-netzwerk-916839581545025558
+  > [!IMPORTANT]
+  > The Discord got deleted.
+  - Vanity URL: https://discord.gg/heromc-decommunity-netzwerk-916839581545025558 
 
 # Server
 
